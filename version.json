@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "url": "https://chalkak-app.pages.dev/workout",
   "notes": "단계가 오를수록 개수가 늘어나는 서바이벌 모드가 생겼습니다. 스페이스바는 이제 일시정지입니다."
 }
